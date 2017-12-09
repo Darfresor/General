@@ -1,4 +1,4 @@
-package second;
+package chapter1;
 
 public class MyFisrtApp {
 
